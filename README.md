@@ -1,1 +1,1 @@
-Link to the Project Website https://github.com/rijulsarji/Alexa-task-two-website
+Link to the Project Website https://rijulsarji.github.io/Alexa-task-two-website/
